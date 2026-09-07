@@ -1,0 +1,13 @@
+{
+  "name": "_vercel.khalidabdullah",
+  "description": "Vercel TXT ownership verification for khalidabdullah.is-a.dev",
+  "owner": {
+    "username": "khalidabdullahh",
+    "email": "seamafridi1234567890@gmail.com"
+  },
+  "records": {
+    "TXT": [
+      "vc-domain-verify=khalidabdullah.is-a.dev,b95ba2554e56b1207bf0"
+    ]
+  }
+}
